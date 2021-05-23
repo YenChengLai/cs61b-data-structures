@@ -1,0 +1,11 @@
+# Eclipse Core
+.project
+
+# JDT (Eclipse Java Development Tools)
+.classpath
+
+# Mac OS
+.DS_Store
+
+# Eclipse Settings
+.settings
